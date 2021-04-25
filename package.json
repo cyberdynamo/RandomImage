@@ -1,0 +1,15 @@
+{
+  "name": "randomimage",
+  "version": "1.0.0",
+  "description": "Random Image Generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cyberdynamo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^5.5.3"
+  }
+}
